@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.example.rkg09.collegebustracker..MapsActivity">
+    <item android:id="@+id/bus9637" android:title="9637"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/bus9914" android:title="9914"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/bus8821" android:title="8821"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/bus9331" android:title="9331"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/bus9090" android:title="9090"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
